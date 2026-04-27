@@ -1,0 +1,2 @@
+# CH374-Project-Computational-Analysis-of-Metal-Cation-Affinity-for-Glycine
+Repository to store data from my CH374 research project. This study used high-level computational chemistry to investigate the thermodynamic and structural properties of metal-cation binding to glycine, the simplest amino acid. Binding affinity and the structural stability of both non-zwitterionic and zwitterionic glycine isomers were quantified. 
